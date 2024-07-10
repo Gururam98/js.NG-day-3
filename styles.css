@@ -1,0 +1,19 @@
+body{
+    background-color: #15a4a9;
+    color: #1a9a71;
+}
+h1{
+    color: white;
+    background-color: rgb(136, 179, 21);
+    border-radius: 30px;
+    width: 500px;
+}
+h3{
+    color: white;
+    background-color:rgb(127, 15, 139);
+    border-radius: 30px;
+}
+#msg{
+    background-color: rgb(16, 151, 229);
+    width: 180px;
+}
